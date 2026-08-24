@@ -1,4 +1,4 @@
-# MY-FIRST-PROJECT
+# MY-FIRST-PROJ
 This is my first GitHub project Learning Git and GitHub basics
 # Student Management System in C
 
